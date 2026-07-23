@@ -1,0 +1,16 @@
+store_id,store_name,region,city,store_format,manager_name
+STR001,Manhattan Flagship,East,New York,Flagship,Sarah Jenkins
+STR002,Brooklyn Express,East,New York,Express,David Miller
+STR003,Boston Back Bay,East,Boston,Flagship,Elena Rostova
+STR004,Chicago Loop Metro,Midwest,Chicago,Supercenter,Michael Chang
+STR005,Minneapolis Nicollet,Midwest,Minneapolis,Express,Rachel Green
+STR006,Denver Cherry Creek,West,Denver,Outlet,Tom Vance
+STR007,LA Sunset Blvd,West,Los Angeles,Flagship,Carlos Mendez
+STR008,San Francisco Union Sq,West,San Francisco,Flagship,Aisha Patel
+STR009,Seattle Downtown,West,Seattle,Supercenter,James Wilson
+STR010,Dallas Galleria,South,Dallas,Supercenter,Marcus Vance
+STR011,Houston Westchase,South,Houston,Express,Anita Roy
+STR012,Austin Domain,South,Austin,Outlet,Kevin O'Connor
+STR013,Miami Beach Fashion,East,Miami,Flagship,Sofia Gomez
+STR014,Atlanta Buckhead,South,Atlanta,Supercenter,Brian Howard
+STR015,Phoenix Biltmore,West,Phoenix,Outlet,Laura Chen
